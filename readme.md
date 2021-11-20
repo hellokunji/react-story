@@ -1,13 +1,13 @@
 # How To Install
 
 ```sh
-yarn add is-even-indreklasn
+yarn add react-story
 ```
 
 # How To Use
 
 ```js
-const isEven = require('is-even-indreklasn')
+const isEven = require('react-story')
 
 isEven(2) // true
 
