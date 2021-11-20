@@ -1,13 +1,13 @@
 # How To Install
 
 ```sh
-yarn add react-story
+yarn add @hellokunji/react-story
 ```
 
 # How To Use
 
 ```js
-const isEven = require('react-story')
+const isEven = require('@hellokunji/react-story')
 
 isEven(2) // true
 
